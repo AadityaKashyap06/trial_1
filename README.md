@@ -1,1 +1,1 @@
-# trial_1
+this project is for trial purpose for js101 students
